@@ -1,0 +1,22 @@
+{
+  "name": "home9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hometask9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazakevi/Hometask9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kazakevi/Hometask9/issues"
+  },
+  "homepage": "https://github.com/kazakevi/Hometask9#readme",
+  "dependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
